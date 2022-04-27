@@ -1,6 +1,6 @@
 # Node.js
 
-Neste repositório você encontrará o material produzino no curso Node.br do Erock Wendel.
+Neste repositório você encontrará o material produzido durante o curso Node.br do Erick Wendel.
 Fica como sugestão, o curso de Node.js para iniciantes na plataforma: https://erickwendel.teachable.com/courses/enrolled/448292 </p>
 
 ### Os módulos abordados && produzidos foram :
